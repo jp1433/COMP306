@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Comp306Assignment3" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\FALL2016\\API\ Engineering\ and\ Cloud\ Computing\\Comp306Assignment3\\Comp306Assignment3\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\FALL2016\\API\ Engineering\ and\ Cloud\ Computing\\Comp306Assignment3\\Comp306Assignment3\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

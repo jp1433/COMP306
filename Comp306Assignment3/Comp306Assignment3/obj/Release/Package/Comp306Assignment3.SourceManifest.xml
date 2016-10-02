@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\FALL2016\API Engineering and Cloud Computing\Comp306Assignment3\Comp306Assignment3\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\FALL2016\API Engineering and Cloud Computing\Comp306Assignment3\Comp306Assignment3\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\FALL2016\API Engineering and Cloud Computing\Comp306Assignment3\Comp306Assignment3\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
